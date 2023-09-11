@@ -1,0 +1,23 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    background-color: #C0392B;
+    height: 80vh;
+}
+
+.row, .col{
+    border: 1px solid white;
+    color: white;
+}
+
+
+.row{
+    height: 16vh;
+}
+
