@@ -1,0 +1,32 @@
+.container{
+    height: auto;
+    width: 100%;
+}
+
+.col{
+    background:#dd0000;
+    border: 3px solid #A10000;
+    color: #FF6464;
+    padding: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.col-8{
+    background:#0074ca;
+    border: 3px solid #005EA4;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.col-3{
+    background:#00833e;
+    border: 3px solid #fed925;
+    color: #fed925;
+    padding: 30px;
+    text-align: center;
+    font-weight: 700;
+}
