@@ -1,0 +1,13 @@
+.container{
+    background:#F86285;
+    height: auto;
+    width: 100%;
+}
+
+.col, .col-6, .col-lg{
+    border: 3px solid #007CC9;
+    color: #007CC9;
+    padding: 30px;
+    text-align: center;
+    font-weight: 700;
+}
